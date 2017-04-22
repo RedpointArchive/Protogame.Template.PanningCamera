@@ -1,0 +1,6 @@
+{
+	"Loader": "Protogame.TilesetAssetLoader",
+	"TextureName": "texture.Tileset",
+	"CellWidth": 16,
+	"CellHeight": 16
+}
