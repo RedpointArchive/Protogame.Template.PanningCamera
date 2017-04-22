@@ -6,7 +6,8 @@
   <Description>This template demonstrates a 2D top-down world with a panning camera implemented in Protogame.  This package can only be used with Protobuild.</Description>
   <LicenseUrl>https://opensource.org/licenses/MIT</LicenseUrl>
   <ProjectUrl>https://protogame.org/</ProjectUrl>
-  <GitRepositoryUrl>https://github.com/RedpointGames/Protogame.Template.Asteroids</GitRepositoryUrl>
+  <IconUrl>https://raw.githubusercontent.com/RedpointGames/Protogame.Template.PanningCamera/master/icon.png</IconUrl>
+  <GitRepositoryUrl>https://github.com/RedpointGames/Protogame.Template.PanningCamera</GitRepositoryUrl>
   <DefaultAction>resync</DefaultAction>
   <GenerateNuGetRepositories>true</GenerateNuGetRepositories>
   <Packages>
