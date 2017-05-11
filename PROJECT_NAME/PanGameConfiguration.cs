@@ -53,7 +53,7 @@ namespace PROJECT_SAFE_NAME
             kernel.Load<PanModule>();
         }
         
-        public Game ConstructGame(IKernel kernel)
+        public ICoreGame ConstructGame(IKernel kernel)
         {
             return new PanGame(kernel);
         }
