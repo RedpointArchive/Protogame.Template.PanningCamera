@@ -43,7 +43,7 @@ namespace PROJECT_SAFE_NAME
             if (renderContext.IsFirstRenderPass())
             {
                 // Render a background which matches the colour of our tiles.
-                gameContext.Graphics.GraphicsDevice.Clear(new Color(92, 138, 185, 1));
+                renderContext.GraphicsDevice.Clear(new Color(92, 138, 185, 1));
             }
         }
 
