@@ -1,6 +1,8 @@
 Protogame "Panning Camera" Template
 ================================
 
+## **❗❗❗ Protogame has been sunset as of 1st Jan 2018 and is no longer supported or maintained. Please read the announcement for more information: [Sunsetting Protogame](https://medium.com/redpoint/sunsetting-protogame-a18e1f03af43). ❗❗❗**
+
 This template implements a 2D top-down game with a panning camera in Protogame.  It covers the following topics:
 
 - How to load Ogmo editor levels
